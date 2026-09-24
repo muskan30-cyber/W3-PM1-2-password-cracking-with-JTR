@@ -43,13 +43,13 @@ The tool tested password candidates and identified the correct password during t
 ## 📸 Practical Evidence
 
 ### 1. John the Ripper / Johnny – Crack Result
-![Johnny crack result](W3-LPDF1.png)
+![Johnny crack result](W3-LPDF-1.png)
 
 ### 2. John the Ripper / Johnny – Second Result
-![Johnny crack result](W3-LPDF2.png)
+![Johnny crack result](W3-LPDF-2.png)
 
 ### 3. Networkwalks – Challenge Result
-![Networkwalks result](W3-LPDF3.png)
+![Networkwalks result](W3-LPDF-3.png)
 
 ### 4. Networkwalks Password-Cracking Tool
 ![Password cracking tool](W3-Passwordcracking1.png)
